@@ -1,4 +1,9 @@
 # excel_to_folders
+# libraries
+```bash
+pip install pandas openpyxl
+```
+
 ## To get help
 ```bash
 python excel_to_folders -h
